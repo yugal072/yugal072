@@ -1,0 +1,56 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="240" fill="#020408"/>
+  <line x1="100" y1="110" x2="1100" y2="110" stroke="#00e5ff" stroke-width="1" opacity="0.25"/>
+
+  <circle r="5" fill="#ffb000" filter="url(#glow)">
+    <animateMotion dur="4s" repeatCount="indefinite" path="M100,110 L1100,110"/>
+  </circle>
+
+  <g transform="translate(100,110)">
+    <circle r="34" fill="#0a1628" stroke="#00e5ff" stroke-width="2" filter="url(#glow)">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="4s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <text text-anchor="middle" dy="8" font-size="24">📥</text>
+    <text text-anchor="middle" y="60" font-family="'Courier New',monospace" font-size="13" fill="#00e5ff" letter-spacing="2">INPUT</text>
+  </g>
+
+  <g transform="translate(350,110)">
+    <circle r="34" fill="#0a1628" stroke="#00e5ff" stroke-width="2" filter="url(#glow)">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="4s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <text text-anchor="middle" dy="8" font-size="24">🔍</text>
+    <text text-anchor="middle" y="60" font-family="'Courier New',monospace" font-size="13" fill="#00e5ff" letter-spacing="2">RETRIEVE</text>
+  </g>
+
+  <g transform="translate(600,110)">
+    <circle r="34" fill="#0a1628" stroke="#ffb000" stroke-width="2" filter="url(#glow)">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="4s" begin="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text text-anchor="middle" dy="8" font-size="24">🧠</text>
+    <text text-anchor="middle" y="60" font-family="'Courier New',monospace" font-size="13" fill="#ffb000" letter-spacing="2">REASON</text>
+  </g>
+
+  <g transform="translate(850,110)">
+    <circle r="34" fill="#0a1628" stroke="#00e5ff" stroke-width="2" filter="url(#glow)">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="4s" begin="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text text-anchor="middle" dy="8" font-size="24">⚡</text>
+    <text text-anchor="middle" y="60" font-family="'Courier New',monospace" font-size="13" fill="#00e5ff" letter-spacing="2">ACT</text>
+  </g>
+
+  <g transform="translate(1100,110)">
+    <circle r="34" fill="#0a1628" stroke="#00e5ff" stroke-width="2" filter="url(#glow)">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="4s" begin="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <text text-anchor="middle" dy="8" font-size="24">📤</text>
+    <text text-anchor="middle" y="60" font-family="'Courier New',monospace" font-size="13" fill="#00e5ff" letter-spacing="2">OUTPUT</text>
+  </g>
+
+  <text x="600" y="205" text-anchor="middle" font-family="'Courier New',monospace" font-size="12" fill="#00e5ff" opacity="0.5" letter-spacing="1">AGENTIC PIPELINE :: RAG + LANGGRAPH ORCHESTRATION</text>
+</svg>
