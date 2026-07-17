@@ -1,11 +1,5 @@
 <div align="center">
 
-<div align="center">
-<img src="Profile.png" width="160" style="border-radius:8px; border:2px solid #00e5ff; box-shadow:0 0 20px #00e5ff88; padding:4px; background:#020408;"/>
-<br>
-<sub style="color:#ffb000; font-family:monospace;">IDENTITY VERIFIED :: YUGAL</sub>
-</div>
-
 <img src="assets/header.svg" width="100%"/>
 
 <br>
@@ -32,6 +26,8 @@ I'm chasing **systems that work end-to-end**. Every project here is me closing t
 
 </td>
 <td width="40%" valign="top" align="center">
+
+<img src="Profile.png" width="160" style="border-radius:50%; border:2px solid #00e5ff; box-shadow:0 0 20px #00e5ff88; margin-bottom:16px;"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yugal072&show_icons=true&hide_border=true&bg_color=020408&title_color=ffb000&icon_color=00e5ff&text_color=c9d1d9&border_color=00e5ff" width="100%"/>
 
