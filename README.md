@@ -27,7 +27,7 @@ I'm chasing **systems that work end-to-end**. Every project here is me closing t
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="Profile.png" width="100%" style="border-radius: 12px; border: 3px solid #00e5ff; box-shadow: 0 0 25px rgba(0, 229, 255, 0.5);"/>
+<img src="Profile.png" width="100%" height=200% style="border-radius: 12px; border: 3px solid #00e5ff; box-shadow: 0 0 25px rgba(0, 229, 255, 0.5);"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yugal072&show_icons=true&hide_border=true&bg_color=020408&title_color=ffb000&icon_color=00e5ff&text_color=c9d1d9&border_color=00e5ff" width="100%"/>
 
