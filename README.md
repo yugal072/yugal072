@@ -25,12 +25,13 @@ I started in ML/DL, got curious about how far "an LLM that can actually *do* thi
 I'm chasing **systems that work end-to-end**. Every project here is me closing the gap between "cool AI demo" and "thing that actually holds up."
 
 </td>
-<td width="100%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
-<img src="Profile.png" width="160" style="border-radius:50%; border:2px solid #00e5ff; box-shadow:0 0 20px #00e5ff88; margin-bottom:16px;"/>
+<img src="assets/your-photo.jpg" width="220" height="220" style="border-radius:50%; border:3px solid #00e5ff; box-shadow:0 0 25px #00e5ff88; object-fit:cover; margin-bottom:16px;"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yugal072&show_icons=true&hide_border=true&bg_color=020408&title_color=ffb000&icon_color=00e5ff&text_color=c9d1d9&border_color=00e5ff" width="100%"/>
 
+</td>
 </td>
 </tr>
 </table>
