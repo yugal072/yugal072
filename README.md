@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="images/profile.png" alt="Yugal" width="220" style="border-radius:50%;" />
+<img src="images/Profile.png" alt="Yugal" width="220" style="border-radius:50%;" />
 
 <a href="https://github.com/yugal072">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Final-year+ENTC+Engineer+%E2%80%94+VIIT+Pune;GenAI+%2B+Agentic+AI+Builder;RAG+%7C+LangGraph+%7C+CrewAI+%7C+AutoGen;Turning+prototypes+into+real+products;Currently%3A+Building+EchoMind+%F0%9F%A7%A0" alt="Typing SVG" />
