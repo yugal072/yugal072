@@ -1,0 +1,26 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGrad2" cx="50%" cy="50%" r="80%">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#020408"/>
+    </radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bgGrad2)"/>
+  <g transform="translate(600,90)">
+    <circle r="70" fill="none" stroke="#00e5ff" stroke-width="1" stroke-dasharray="2 6" opacity="0.5">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="50" fill="none" stroke="#ffb000" stroke-width="1" opacity="0.4">
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="600" y="100" text-anchor="middle" font-family="'Courier New',monospace" font-size="32" font-weight="700" fill="#00e5ff" filter="url(#glow)" letter-spacing="4">
+    LET'S BUILD THE FUTURE
+    <animate attributeName="opacity" values="1;0.8;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="135" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" fill="#ffb000" opacity="0.8" letter-spacing="3">CONNECTION REQUEST :: OPEN</text>
+</svg>
