@@ -25,7 +25,7 @@ I started in ML/DL, got curious about how far "an LLM that can actually *do* thi
 I'm chasing **systems that work end-to-end**. Every project here is me closing the gap between "cool AI demo" and "thing that actually holds up."
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="100%" valign="top" align="center">
 
 <img src="Profile.png" width="160" style="border-radius:50%; border:2px solid #00e5ff; box-shadow:0 0 20px #00e5ff88; margin-bottom:16px;"/>
 
