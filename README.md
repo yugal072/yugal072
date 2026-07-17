@@ -1,5 +1,11 @@
 <div align="center">
 
+<div align="center">
+<img src="Profile.png" width="160" style="border-radius:8px; border:2px solid #00e5ff; box-shadow:0 0 20px #00e5ff88; padding:4px; background:#020408;"/>
+<br>
+<sub style="color:#ffb000; font-family:monospace;">IDENTITY VERIFIED :: YUGAL</sub>
+</div>
+
 <img src="assets/header.svg" width="100%"/>
 
 <br>
@@ -22,7 +28,7 @@ I'm Yugal — a final-year Electronics & Telecommunication engineering student a
 
 I started in ML/DL, got curious about how far "an LLM that can actually *do* things" could go, and now I live somewhere between **RAG pipelines, agentic workflows, and way too many tabs of documentation**. Hardware background, software heart.
 
-I'm not chasing hype — I'm chasing **systems that work end-to-end**. Every project here is me closing the gap between "cool AI demo" and "thing that actually holds up."
+I'm chasing **systems that work end-to-end**. Every project here is me closing the gap between "cool AI demo" and "thing that actually holds up."
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -71,14 +77,14 @@ I'm not chasing hype — I'm chasing **systems that work end-to-end**. Every pro
 </td>
 <td align="center" width="25%">
 
-**🌍**<br>Take it global — build AI systems from **Germany or the Netherlands**
+**🌍**<br>Take it global — build AI systems to automate tasks.
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<sub>Not chasing a Master's degree — chasing a seat at the table as a builder, direct-hire, no detours.</sub>
+<sub>Chasing a seat at the table as a builder, direct-hire, no detours.</sub>
 </div>
 
 <img src="assets/divider.svg" width="100%"/>
@@ -89,7 +95,7 @@ I'm not chasing hype — I'm chasing **systems that work end-to-end**. Every pro
 <tr>
 <td width="100%">
 
-**🧠 EchoMind** — my flagship project. A personal RAG assistant that pulls context from multiple real data sources, with a LangGraph-powered agentic upgrade in progress. This is where I'm proving that everything on my resume — LangChain, LangGraph, CrewAI, RAG, GraphRAG, PEFT/LoRA/QLoRA — isn't just a list of keywords.
+**🧠 Bruven** — my flagship project. A personal RAG assistant that pulls context from multiple real data sources, with a LangGraph-powered agentic upgrade in progress. This is where I'm proving that everything on my resume — LangChain, LangGraph, CrewAI, RAG, GraphRAG, PEFT/LoRA/QLoRA — isn't just a list of keywords.
 
 </td>
 </tr>
@@ -106,13 +112,13 @@ I'm not chasing hype — I'm chasing **systems that work end-to-end**. Every pro
 <td width="50%">
 
 **🎙️ [On-device Meeting Assistant](https://github.com/yugal072/On-device-meeting-assistant)**
-<br>Built at the AMD Hackathon — an on-device assistant that listens, understands, and helps you actually remember your meetings. No cloud round-trip required.
+<br>Built for the AMD Hackathon — an on-device assistant that listens, understands, and helps you actually remember your meetings. No cloud round-trip required.
 
 </td>
 <td width="50%">
 
 **🚗 [Toy Car Obstacle Detection](https://github.com/yugal072/toy-car-obstacle-detection)**
-<br>Where the ENTC in me meets the AI in me — real-time obstacle detection running on hardware, not just in a notebook.
+<br>Where the ENTC in me meets the AI in me — real-time obstacle detection running on hardware.
 
 </td>
 </tr>
@@ -126,7 +132,7 @@ I'm not chasing hype — I'm chasing **systems that work end-to-end**. Every pro
 <td width="50%">
 
 **🐾 [Jiva Shelter](https://github.com/yugal072/Jiva-Shelter)**
-<br>A pet adoption platform — proof that I care about clean, usable products, not just clever backends.
+<br>A pet adoption platform — not something of a sales website but a platform for those seeking love.
 
 </td>
 </tr>
@@ -139,11 +145,10 @@ I'm not chasing hype — I'm chasing **systems that work end-to-end**. Every pro
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-020408?style=for-the-badge&logo=python&logoColor=00e5ff&labelColor=020408)
-![PyTorch](https://img.shields.io/badge/PyTorch-020408?style=for-the-badge&logo=pytorch&logoColor=ffb000&labelColor=020408)
 ![LangChain](https://img.shields.io/badge/LangChain-020408?style=for-the-badge&logo=langchain&logoColor=00e5ff&labelColor=020408)
+![LangGraph](https://img.shields.io/badge/LangGraph-00C9FF?style=for-the-badge&logo=langchain&logoColor=000000)
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-020408?style=for-the-badge&logoColor=ffb000&labelColor=020408)
 ![C++](https://img.shields.io/badge/C++-020408?style=for-the-badge&logo=cplusplus&logoColor=00e5ff&labelColor=020408)
-![TypeScript](https://img.shields.io/badge/TypeScript-020408?style=for-the-badge&logo=typescript&logoColor=00e5ff&labelColor=020408)
 ![FastAPI](https://img.shields.io/badge/FastAPI-020408?style=for-the-badge&logo=fastapi&logoColor=ffb000&labelColor=020408)
 ![Git](https://img.shields.io/badge/Git-020408?style=for-the-badge&logo=git&logoColor=00e5ff&labelColor=020408)
 
@@ -166,7 +171,7 @@ I'm not chasing hype — I'm chasing **systems that work end-to-end**. Every pro
 
 <div align="center">
 
-I'm always up for a conversation about agentic systems, RAG architectures, or how to make AI actually useful (not just impressive). If you're building, hiring, or just curious — reach out.
+I'm always up to learn about agentic systems, RAG architectures, or how to make AI actually useful (not just impressive). If you're building, hiring, or just curious — reach out.
 
 <a href="https://www.linkedin.com/in/yugal-upadhayay-8883b7291/"><img src="https://img.shields.io/badge/LinkedIn-020408?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=020408"/></a>
 <a href="mailto:yugalupadhyay313@gmail.com"><img src="https://img.shields.io/badge/Email-020408?style=for-the-badge&logo=gmail&logoColor=ffb000&labelColor=020408"/></a>
