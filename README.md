@@ -18,16 +18,14 @@
 
 ### 🌱 About Me
 
-I'm Yugal — a final-year Electronics & Telecommunication engineering student at **VIIT, Pune**, who fell down the AI rabbit hole and never really climbed back out.
-
-I started in ML/DL, got curious about how far "an LLM that can actually *do* things" could go, and now I live somewhere between **RAG pipelines, agentic workflows, and way too many tabs of documentation**. Hardware background, software heart.
-
-I'm chasing **systems that work end-to-end**. Every project here is me closing the gap between "cool AI demo" and "thing that actually holds up."
+I'm Yugal, a final-year Electronics & Telecommunication engineering student at **VIIT, Pune**, who fell down the AI rabbit hole and never really climbed back out of it, because thing that pushed me was pushing me further to explore more of it. 
+I started with machine learning algorithms, got curious about how far "an LLM that can actually *do* things" could go, and now I live somewhere between **RAG pipelines, agentic workflows, and way too many tabs of documentation**. Hardware background, software heart.
+I'm trying to chase **systems that work end-to-end**. Every project here is me closing the gap between "cool AI demo" and "thing that actually holds up."
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="Profile.png" width="100%" style="border-radius: 12px; border: 3px solid #00e5ff; box-shadow: 0 0 25px rgba(0, 229, 255, 0.5);"/>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=yugal072&show_icons=true&hide_border=true&bg_color=020408&title_color=ffb000&icon_color=00e5ff&text_color=c9d1d9&border_color=00e5ff" width="100%"/>
 
@@ -143,7 +141,7 @@ I'm chasing **systems that work end-to-end**. Every project here is me closing t
 
 ![Python](https://img.shields.io/badge/Python-020408?style=for-the-badge&logo=python&logoColor=00e5ff&labelColor=020408)
 ![LangChain](https://img.shields.io/badge/LangChain-020408?style=for-the-badge&logo=langchain&logoColor=00e5ff&labelColor=020408)
-![LangGraph](https://img.shields.io/badge/LangGraph-00C9FF?style=for-the-badge&logo=langchain&logoColor=000000)
+![LangGraph](https://img.shields.io/badge/LangGraph-020408?style=for-the-badge&logo=langchain&logoColor=020408)
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-020408?style=for-the-badge&logoColor=ffb000&labelColor=020408)
 ![C++](https://img.shields.io/badge/C++-020408?style=for-the-badge&logo=cplusplus&logoColor=00e5ff&labelColor=020408)
 ![FastAPI](https://img.shields.io/badge/FastAPI-020408?style=for-the-badge&logo=fastapi&logoColor=ffb000&labelColor=020408)
