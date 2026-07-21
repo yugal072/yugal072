@@ -38,7 +38,7 @@ I'm trying to chase **systems that work end-to-end**. Every project here is me c
 
 ### 💭 What I Believe In
 
-> AI isn't magic — it's engineering with a probabilistic core. My job is to make that core reliable.
+> AI isn't magic — it's engineering with a probabilistic core. What I am doing is to make that core reliable.
 
 - 🧩 **Agents over answers** — I care less about a single clever prompt and more about systems that plan, retrieve, act, and correct themselves.
 - 🛠️ **Ship it, don't just design it** — a working prototype teaches you more in a week than a whitepaper does in a month.
@@ -90,8 +90,7 @@ I'm trying to chase **systems that work end-to-end**. Every project here is me c
 <tr>
 <td width="100%">
 
-**🧠 Bruven** — my flagship project. A personal RAG assistant that pulls context from multiple real data sources, with a LangGraph-powered agentic upgrade in progress. This is where I'm proving that everything on my resume — LangChain, LangGraph, CrewAI, RAG, GraphRAG, PEFT/LoRA/QLoRA — isn't just a list of keywords.
-
+**🧠 Bruven** — my flagship project. A personal RAG assistant that pulls context from multiple real data sources, with a LangGraph-powered agentic upgrade in progress. This is where I am going all out.
 </td>
 </tr>
 </table>
