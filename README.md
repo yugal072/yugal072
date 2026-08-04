@@ -12,46 +12,26 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ### 🌱 About Me
 
-I'm Yugal, a final-year Electronics & Telecommunication engineering student at **VIIT, Pune**, who fell down the AI rabbit hole and never really climbed back out of it, because thing that pushed me was pushing me further to explore more of it. 
-I started with machine learning algorithms, got curious about how far "an LLM that can actually *do* things" could go, and now I live somewhere between **RAG pipelines, agentic workflows, and way too many tabs of documentation**. Hardware background, software heart.
-I'm trying to chase **systems that work end-to-end**. Every project here is me closing the gap between "cool AI demo" and "thing that actually holds up."
+I'm Yugal, a final-year Electronics & Telecommunication engineering student at **VIIT, Pune**. I started out with classic ML algorithms, got curious about how far "an LLM that can actually *do* things" could go, and now I spend most of my time on **RAG pipelines, agentic workflows, and way too many documentation tabs**. Hardware background, software heart.
 
-</td>
-<td width="40%" valign="top" align="center">
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=yugal072&show_icons=true&hide_border=true&bg_color=020408&title_color=ffb000&icon_color=00e5ff&text_color=c9d1d9&border_color=00e5ff" width="100%"/>
-
-</td>
-</td>
-</tr>
-</table>
+My focus is building **systems that work end-to-end** — every project here is an attempt to close the gap between a cool AI demo and something that actually holds up under real use.
 
 <img src="assets/divider.svg" width="100%"/>
 
 ### 💭 What I Believe In
 
-> AI isn't magic — it's engineering with a probabilistic core. What I am doing is to make that core reliable.
+> AI isn't magic — it's engineering with a probabilistic core. My job is to make that core reliable.
 
 - 🧩 **Agents over answers** — I care less about a single clever prompt and more about systems that plan, retrieve, act, and correct themselves.
-- 🛠️ **Ship it, don't just design it** — a working prototype teaches you more in a week than a whitepaper does in a month.
+- 🛠️ **Ship it, don't just design it** — a working prototype teaches more in a week than a whitepaper does in a month.
 - 📚 **Retrieval is the unglamorous superpower** — most "AI problems" are actually context problems. Fix the context, fix the model.
-- 🌍 **Build for the real world** — on-device constraints, latency, cost, and actual users matter more than benchmark leaderboard rank.
+- 🌍 **Build for the real world** — latency, cost, and real users matter more than a leaderboard rank.
 
 <img src="assets/divider.svg" width="100%"/>
 
-<div align="center">
-
 ### 🎯 The Vision
-
-</div>
 
 <table>
 <tr>
@@ -72,28 +52,21 @@ I'm trying to chase **systems that work end-to-end**. Every project here is me c
 </td>
 <td align="center" width="25%">
 
-**🌍**<br>Take it global — build AI systems to automate tasks.
+**🌍**<br>Take it global — build AI systems that automate real work
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<sub>Chasing a seat at the table as a builder, direct-hire, no detours.</sub>
+<sub>Chasing a seat at the table as a builder — direct-hire, no detours.</sub>
 </div>
 
 <img src="assets/divider.svg" width="100%"/>
 
 ### 🔭 Currently Building
 
-<table>
-<tr>
-<td width="100%">
-
-**🧠 Bruven** — my flagship project. A personal RAG assistant that pulls context from multiple real data sources, with a LangGraph-powered agentic upgrade in progress. This is where I am going all out.
-</td>
-</tr>
-</table>
+**🧠 Bruven** — my flagship project, a personal RAG assistant that pulls context from real data sources (Gmail, Calendar, PDFs, Obsidian, voice notes) through Qdrant with LLM-powered filter extraction. Now getting a LangGraph-based agentic upgrade: multi-tool orchestration, reflection/critic loops, and long-term memory.
 
 <img src="assets/pipeline.svg" width="100%"/>
 
@@ -106,7 +79,7 @@ I'm trying to chase **systems that work end-to-end**. Every project here is me c
 <td width="50%">
 
 **🎙️ [On-device Meeting Assistant](https://github.com/yugal072/On-device-meeting-assistant)**
-<br>Built for the AMD Hackathon — an on-device assistant that listens, understands, and helps you actually remember your meetings. No cloud round-trip required.
+<br>Built for the AMD Hackathon — an assistant that listens, understands, and helps you remember meetings, entirely on-device, no cloud round-trip.
 
 </td>
 <td width="50%">
@@ -120,13 +93,13 @@ I'm trying to chase **systems that work end-to-end**. Every project here is me c
 <td width="50%">
 
 **🔍 [Simple Search Engine](https://github.com/yugal072/simple_search_engine)**
-<br>Built a search engine from the ground up to actually understand ranking, indexing, and retrieval — the same bones that power every RAG system I build now.
+<br>Built a search engine from scratch to understand ranking, indexing, and retrieval — the same bones that power every RAG system I build now.
 
 </td>
 <td width="50%">
 
 **🐾 [Jiva Shelter](https://github.com/yugal072/Jiva-Shelter)**
-<br>A pet adoption platform — not something of a sales website but a platform for those seeking love.
+<br>A pet adoption platform, built to connect animals with people looking to give them a home.
 
 </td>
 </tr>
@@ -165,7 +138,7 @@ I'm trying to chase **systems that work end-to-end**. Every project here is me c
 
 <div align="center">
 
-I'm always up to learn about agentic systems, RAG architectures, or how to make AI actually useful (not just impressive). If you're building, hiring, or just curious — reach out.
+I'm always up for talking about agentic systems, RAG architectures, or how to make AI actually useful instead of just impressive. If you're building, hiring, or just curious — reach out.
 
 <a href="https://www.linkedin.com/in/yugal-upadhayay-8883b7291/"><img src="https://img.shields.io/badge/LinkedIn-020408?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=020408"/></a>
 <a href="mailto:yugalupadhyay313@gmail.com"><img src="https://img.shields.io/badge/Email-020408?style=for-the-badge&logo=gmail&logoColor=ffb000&labelColor=020408"/></a>
