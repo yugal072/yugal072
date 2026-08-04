@@ -1,26 +1,14 @@
-<div align="center">
+# Hi, I'm Yugal 👋
 
-<img src="assets/header.svg" width="100%"/>
+Final-year Electronics & Telecommunication engineering student at **VIIT, Pune**, focused on agentic AI systems and retrieval-augmented generation (RAG).
 
-<br>
+I started out with classic ML algorithms, got curious about how far "an LLM that can actually *do* things" could go, and now spend most of my time on RAG pipelines, agentic workflows, and way too many documentation tabs. Hardware background, software heart.
 
-<a href="https://github.com/yugal072">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=1800&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=%3E+BOOTING+YUGAL.AI+CORE...;%3E+LOADING+MODULES%3A+RAG+%2F%2F+LANGGRAPH+%2F%2F+CREWAI+%2F%2F+AUTOGEN;%3E+CALIBRATING+AGENTIC+PIPELINES...;%3E+STATUS%3A+ONLINE" alt="boot sequence" />
-</a>
+My focus is building systems that work end-to-end — every project here is an attempt to close the gap between a cool AI demo and something that actually holds up under real use.
 
-</div>
+---
 
-<img src="assets/divider.svg" width="100%"/>
-
-### 🌱 About Me
-
-I'm Yugal, a final-year Electronics & Telecommunication engineering student at **VIIT, Pune**. I started out with classic ML algorithms, got curious about how far "an LLM that can actually *do* things" could go, and now I spend most of my time on **RAG pipelines, agentic workflows, and way too many documentation tabs**. Hardware background, software heart.
-
-My focus is building **systems that work end-to-end** — every project here is an attempt to close the gap between a cool AI demo and something that actually holds up under real use.
-
-<img src="assets/divider.svg" width="100%"/>
-
-### 💭 What I Believe In
+## 💭 What I Believe In
 
 > AI isn't magic — it's engineering with a probabilistic core. My job is to make that core reliable.
 
@@ -29,122 +17,66 @@ My focus is building **systems that work end-to-end** — every project here is 
 - 📚 **Retrieval is the unglamorous superpower** — most "AI problems" are actually context problems. Fix the context, fix the model.
 - 🌍 **Build for the real world** — latency, cost, and real users matter more than a leaderboard rank.
 
-<img src="assets/divider.svg" width="100%"/>
+---
 
-### 🎯 The Vision
+## 🎯 Goals
 
-<table>
-<tr>
-<td align="center" width="25%">
+- Master agentic AI systems — RAG, GraphRAG, multi-agent orchestration
+- Ship a flagship project that proves it, not just claims it
+- Break into an AI/ML role and grow fast
+- Build AI systems that automate real work, globally
 
-**🧠**<br>Master agentic AI systems — RAG, GraphRAG, multi-agent orchestration
+---
 
-</td>
-<td align="center" width="25%">
+## 🔭 Currently Building
 
-**🚀**<br>Ship a flagship project that proves it, not just claims it
+**Bruven** — my flagship project, a personal RAG assistant that pulls context from real data sources (Gmail, Calendar, PDFs, Obsidian, voice notes) through Qdrant with LLM-powered filter extraction. Now getting a LangGraph-based agentic upgrade: multi-tool orchestration, reflection/critic loops, and long-term memory.
 
-</td>
-<td align="center" width="25%">
+---
 
-**💼**<br>Break into an AI/ML role and grow fast
+## 🗂️ Featured Projects
 
-</td>
-<td align="center" width="25%">
+| Project | Description |
+|---|---|
+| 🎙️ [On-device Meeting Assistant](https://github.com/yugal072/On-device-meeting-assistant) | Built for the AMD Hackathon — an assistant that listens, understands, and helps you remember meetings, entirely on-device, no cloud round-trip. |
+| 🚗 [Toy Car Obstacle Detection](https://github.com/yugal072/toy-car-obstacle-detection) | Where the ENTC in me meets the AI in me — real-time obstacle detection running on hardware. |
+| 🔍 [Simple Search Engine](https://github.com/yugal072/simple_search_engine) | Built a search engine from scratch to understand ranking, indexing, and retrieval — the same bones that power every RAG system I build now. |
+| 🐾 [Jiva Shelter](https://github.com/yugal072/Jiva-Shelter) | A pet adoption platform, built to connect animals with people looking to give them a home. |
 
-**🌍**<br>Take it global — build AI systems that automate real work
+---
 
-</td>
-</tr>
-</table>
+## 🧰 Tech Stack
 
-<div align="center">
-<sub>Chasing a seat at the table as a builder — direct-hire, no detours.</sub>
-</div>
-
-<img src="assets/divider.svg" width="100%"/>
-
-### 🔭 Currently Building
-
-**🧠 Bruven** — my flagship project, a personal RAG assistant that pulls context from real data sources (Gmail, Calendar, PDFs, Obsidian, voice notes) through Qdrant with LLM-powered filter extraction. Now getting a LangGraph-based agentic upgrade: multi-tool orchestration, reflection/critic loops, and long-term memory.
-
-<img src="assets/pipeline.svg" width="100%"/>
-
-<img src="assets/divider.svg" width="100%"/>
-
-### 🗂️ Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🎙️ [On-device Meeting Assistant](https://github.com/yugal072/On-device-meeting-assistant)**
-<br>Built for the AMD Hackathon — an assistant that listens, understands, and helps you remember meetings, entirely on-device, no cloud round-trip.
-
-</td>
-<td width="50%">
-
-**🚗 [Toy Car Obstacle Detection](https://github.com/yugal072/toy-car-obstacle-detection)**
-<br>Where the ENTC in me meets the AI in me — real-time obstacle detection running on hardware.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔍 [Simple Search Engine](https://github.com/yugal072/simple_search_engine)**
-<br>Built a search engine from scratch to understand ranking, indexing, and retrieval — the same bones that power every RAG system I build now.
-
-</td>
-<td width="50%">
-
-**🐾 [Jiva Shelter](https://github.com/yugal072/Jiva-Shelter)**
-<br>A pet adoption platform, built to connect animals with people looking to give them a home.
-
-</td>
-</tr>
-</table>
-
-<img src="assets/divider.svg" width="100%"/>
-
-### 🧰 Tech I Reach For
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-020408?style=for-the-badge&logo=python&logoColor=00e5ff&labelColor=020408)
-![LangChain](https://img.shields.io/badge/LangChain-020408?style=for-the-badge&logo=langchain&logoColor=00e5ff&labelColor=020408)
-![LangGraph](https://img.shields.io/badge/LangGraph-020408?style=for-the-badge&logo=langchain&logoColor=020408)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-020408?style=for-the-badge&logoColor=ffb000&labelColor=020408)
-![C++](https://img.shields.io/badge/C++-020408?style=for-the-badge&logo=cplusplus&logoColor=00e5ff&labelColor=020408)
-![FastAPI](https://img.shields.io/badge/FastAPI-020408?style=for-the-badge&logo=fastapi&logoColor=ffb000&labelColor=020408)
-![Git](https://img.shields.io/badge/Git-020408?style=for-the-badge&logo=git&logoColor=00e5ff&labelColor=020408)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Currently deep in:** RAG · GraphRAG · LangGraph · CrewAI · AutoGen · PEFT / LoRA / QLoRA
 
-</div>
+---
 
-<img src="assets/divider.svg" width="100%"/>
+## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yugal072&show_icons=true&theme=default" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugal072" alt="GitHub Streak" width="48%"/>
+</p>
 
-### 📈 The Grind
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugal072" alt="Activity Graph" width="98%"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yugal072&hide_border=true&background=020408&ring=00e5ff&fire=ffb000&currStreakLabel=00e5ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=707a8a" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yugal072&bg_color=020408&hide_border=true&color=00e5ff&line=00e5ff&point=ffb000&area=true&area_color=00e5ff" width="48%"/>
+---
 
-</div>
-
-<img src="assets/footer.svg" width="100%"/>
-
-<div align="center">
+## 📫 Let's Connect
 
 I'm always up for talking about agentic systems, RAG architectures, or how to make AI actually useful instead of just impressive. If you're building, hiring, or just curious — reach out.
 
-<a href="https://www.linkedin.com/in/yugal-upadhayay-8883b7291/"><img src="https://img.shields.io/badge/LinkedIn-020408?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=020408"/></a>
-<a href="mailto:yugalupadhyay313@gmail.com"><img src="https://img.shields.io/badge/Email-020408?style=for-the-badge&logo=gmail&logoColor=ffb000&labelColor=020408"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugal-upadhayay-8883b7291/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugalupadhyay313@gmail.com)
 
-<br><br>
-
-<sub>💡 "The best way to predict the future is to build it."</sub>
-
-</div>
+> "The best way to predict the future is to build it."
